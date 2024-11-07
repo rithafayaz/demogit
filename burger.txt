@@ -4,6 +4,10 @@ chicken
 lettuce
 bun
 
+optional:
+cheese
+veggies
+egg
 
 
 THANKYOU
